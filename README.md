@@ -24,4 +24,4 @@ Your car is ready at any destination you travel and any time! We have a wide ran
 
 ## Travel the world
 
-Why wait when everything is ready and made easy for you? Book now before it's too late! 
+Why wait when everything is ready and made easy for you? Book now before it's too late!
