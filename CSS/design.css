@@ -3,6 +3,26 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+} 
+
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
 h1 {
   background-color:rgb(23, 23, 94);
   opacity: 70%;
@@ -23,11 +43,12 @@ h2 {
  margin-block-start: -20px;
 }
 #one {
-  max-width: 150%;
+  max-width: 100%;
   height: auto;
 }
 #two {
- margin-left: 503px;
+  max-width: 50%;
+ margin-left: 609px;
 }
 
 p {
