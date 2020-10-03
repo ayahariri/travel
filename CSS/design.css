@@ -89,13 +89,17 @@ display: inline-block
 #three {
   max-width: 50%;
   margin-top: 55px;
+  margin-bottom: 20px;
   background-color: white;
 }
 
 #four {
   max-width: 50%;
+  float: right;
 }
 
 #five {
   max-width: 50%;
 }
+
+
