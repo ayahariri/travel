@@ -90,13 +90,12 @@ p{
 #four {
   max-width: 48%;
   float: right;
-  margin-top: 40px;
   margin-left: 40px;
 }
 
 #five {
   max-width: 50%;
-  margin-top: 190px;
+  margin-top: 80px;
 }
 
 #rental {
@@ -111,7 +110,7 @@ p{
   margin-bottom: 20px;
 }
 
-#titletravel {
-
+#traveltitle {
+  margin-top: 90px;
 }
 
